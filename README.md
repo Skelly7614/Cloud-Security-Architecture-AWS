@@ -6,7 +6,7 @@ Team Project: 3 members
 
 This repository documents a complete cloud security architecture designed for financial services workloads operating on AWS.  
 It integrates identity governance, network protection, and data security to achieve confidentiality, integrity, and availability in compliance with standards such as PCI DSS, GDPR, and APRA CPS 234.
-<img width="768" height="432" alt="image" src="https://github.com/user-attachments/assets/4e078179-1a0c-4a93-a60e-953915c62acb" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/4e078179-1a0c-4a93-a60e-953915c62acb" />
 
 
 I was primarily responsible for the Storage & Data Protection component of the architecture.
