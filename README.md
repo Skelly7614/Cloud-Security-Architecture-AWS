@@ -91,7 +91,6 @@ The architecture addresses requirements from:
 - APRA CPS 234 (resilience and traceability)
 - AWS Well-Architected Framework (Security and Reliability Pillars)
 
-Compliance details are maintained in `docs/Compliance-Mapping.md`.
 
 ## 6. Technologies and Services
 
