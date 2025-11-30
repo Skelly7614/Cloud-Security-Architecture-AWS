@@ -24,8 +24,7 @@ Core AWS services include **Amazon S3, DynamoDB, RDS, and S3 Glacier**.
 
 The following diagram summarizes the data categories, AWS services, key security measures, and redundancy strategies:
 
-![Secure Storage Architecture](secure-storage-architecture.png)
-
+<img width="1440" height="480" alt="image" src="https://github.com/user-attachments/assets/9979c919-2853-4f2a-91e4-f083df38489e" />
 
 ## 3. Architecture Components
 
