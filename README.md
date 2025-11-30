@@ -80,7 +80,6 @@ The following diagram summarizes the data categories, AWS services, key security
 - Multi-region replication options  
 - Long-term archival storage (7–10+ years)  
 
----
 
 ## 4. Data Governance and Compliance Mapping
 
@@ -120,15 +119,3 @@ My responsibilities included:
 - VPC Endpoints  
 - Backup and recovery services  
 
-
-## 7. Purpose of This Repository
-
-This repository serves as a portfolio project demonstrating:
-
-- Cloud storage security design  
-- Data governance mapping  
-- AWS encryption and access control  
-- High-availability and disaster recovery planning  
-- Architecture documentation skills  
-
-It is intended for cloud, security, DevOps, and backend engineering roles requiring strong AWS knowledge.
